@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YouTube Downloader</string>
+    <string name="download_channel">Download Notifications</string>
+    <string name="download_channel_description">Notifications for YouTube video downloads</string>
+</resources>
